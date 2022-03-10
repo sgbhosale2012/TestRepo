@@ -1,5 +1,5 @@
 
-import java.util.*;
+
 // to find duplicats if repeated only one time
 class LinearSearch{
 
